@@ -284,3 +284,4 @@
 @@||klaviyo.com^$important
 @@||www.theringer.com^$important
 @@||static.cloudflareinsights.com^$important
+@@||newrelic.com
